@@ -1,3 +1,10 @@
+- link: /blog/trustworthy-benchmarks
+  img: /blog/trustworthy-benchmarks/figures/teaser.png
+  title: "We Scored 100% on AI Benchmarks Without Solving a Single Problem"
+  date: "2026-04-06"
+  description: "AI benchmarks decide which models get funded, deployed, and trusted. We hacked 13 of them — 45 confirmed hacking solutions, every benchmark rated critical risk. If the scores are fake, so is everything built on them."
+  category: "main"
+
 - link: /blog/self-sovereign-agent
   img: /blog/self-sovereign-agent/self-sovereign-agent-intro.png
   title: "Self-Sovereign Agent"
